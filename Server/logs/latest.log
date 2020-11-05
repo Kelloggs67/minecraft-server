@@ -1,17 +1,17 @@
-[21:36:51] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[21:36:52] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:36:52] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:36:52] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:36:52] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:36:52] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:36:52] [main/INFO]: Reloading ResourceManager: Default
-[21:36:52] [Worker-Main-6/INFO]: Loaded 7 recipes
-[21:36:53] [Worker-Main-6/INFO]: Loaded 927 advancements
-[21:36:54] [Server thread/INFO]: Starting minecraft server version 1.16.3
-[21:36:54] [Server thread/INFO]: Loading properties
-[21:36:54] [Server thread/INFO]: Default game type: SURVIVAL
-[21:36:54] [Server thread/INFO]: Generating keypair
-[21:36:54] [Server console handler/ERROR]: Exception handling console input
+[22:02:49] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[22:02:50] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:02:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:02:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:02:50] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:02:50] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:02:50] [main/INFO]: Reloading ResourceManager: Default
+[22:02:50] [Worker-Main-12/INFO]: Loaded 7 recipes
+[22:02:51] [Worker-Main-12/INFO]: Loaded 927 advancements
+[22:02:53] [Server thread/INFO]: Starting minecraft server version 1.16.3
+[22:02:53] [Server thread/INFO]: Loading properties
+[22:02:53] [Server thread/INFO]: Default game type: SURVIVAL
+[22:02:53] [Server thread/INFO]: Generating keypair
+[22:02:53] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: The handle is invalid
 	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_271]
 	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_271]
@@ -25,40 +25,53 @@ java.io.IOException: The handle is invalid
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_271]
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_271]
 	at zg$1.run(SourceFile:89) [server%20(2).jar:?]
-[21:36:54] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:36:54] [Server thread/INFO]: Using default channel type
-[21:36:56] [Server thread/INFO]: Preparing level "world"
-[21:36:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:36:57] [Server thread/INFO]: Preparing spawn area: 0%
-[21:36:57] [Server thread/INFO]: Preparing spawn area: 0%
-[21:36:57] [Server thread/INFO]: Preparing spawn area: 0%
-[21:36:57] [Server thread/INFO]: Preparing spawn area: 0%
-[21:36:59] [Worker-Main-7/INFO]: Preparing spawn area: 83%
-[21:36:59] [Worker-Main-5/INFO]: Preparing spawn area: 83%
-[21:36:59] [Worker-Main-5/INFO]: Preparing spawn area: 83%
-[21:36:59] [Worker-Main-5/INFO]: Preparing spawn area: 83%
-[21:37:00] [Server thread/INFO]: Preparing spawn area: 83%
-[21:37:00] [Worker-Main-7/INFO]: Preparing spawn area: 92%
-[21:37:01] [Worker-Main-4/INFO]: Preparing spawn area: 92%
-[21:37:01] [Worker-Main-7/INFO]: Preparing spawn area: 92%
-[21:37:02] [Worker-Main-4/INFO]: Preparing spawn area: 95%
-[21:37:02] [Server thread/INFO]: Time elapsed: 6244 ms
-[21:37:02] [Server thread/INFO]: Done (6.323s)! For help, type "help"
-[21:37:57] [User Authenticator #1/INFO]: UUID of player BusStopLegacy is 4d4bc252-13b0-4aca-8b82-c4b65a0ca863
-[21:37:57] [Server thread/INFO]: BusStopLegacy[/25.12.132.223:57424] logged in with entity id 181 at (-27.046951841443196, 71.0, 63.873397869858096)
-[21:37:58] [Server thread/INFO]: BusStopLegacy joined the game
-[21:39:35] [Server thread/INFO]: [BusStopLegacy: Set own game mode to Creative Mode]
-[21:40:49] [Server thread/INFO]: BusStopLegacy lost connection: Disconnected
-[21:40:49] [Server thread/INFO]: BusStopLegacy left the game
-[21:48:06] [Server thread/INFO]: Stopping server
-[21:48:06] [Server thread/INFO]: Saving players
-[21:48:06] [Server thread/INFO]: Saving worlds
-[21:48:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:48:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:48:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[21:48:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:48:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[21:48:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:48:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:48:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:48:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:02:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:02:53] [Server thread/INFO]: Using default channel type
+[22:02:56] [Server thread/INFO]: Preparing level "world"
+[22:02:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:02:57] [Server thread/INFO]: Preparing spawn area: 0%
+[22:02:57] [Server thread/INFO]: Preparing spawn area: 0%
+[22:02:57] [Server thread/INFO]: Preparing spawn area: 0%
+[22:02:58] [Server thread/INFO]: Preparing spawn area: 0%
+[22:02:58] [Server thread/INFO]: Preparing spawn area: 12%
+[22:03:04] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[22:03:04] [Worker-Main-14/INFO]: Preparing spawn area: 83%
+[22:03:04] [Worker-Main-15/INFO]: Preparing spawn area: 83%
+[22:03:04] [Worker-Main-15/INFO]: Preparing spawn area: 83%
+[22:03:04] [Worker-Main-15/INFO]: Preparing spawn area: 83%
+[22:03:04] [Worker-Main-14/INFO]: Preparing spawn area: 83%
+[22:03:04] [Worker-Main-10/INFO]: Preparing spawn area: 83%
+[22:03:04] [Worker-Main-15/INFO]: Preparing spawn area: 83%
+[22:03:04] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[22:03:04] [Worker-Main-10/INFO]: Preparing spawn area: 83%
+[22:03:04] [Worker-Main-15/INFO]: Preparing spawn area: 83%
+[22:03:04] [Worker-Main-10/INFO]: Preparing spawn area: 83%
+[22:03:05] [Server thread/INFO]: Preparing spawn area: 83%
+[22:03:05] [Worker-Main-9/INFO]: Preparing spawn area: 92%
+[22:03:05] [Worker-Main-11/INFO]: Preparing spawn area: 92%
+[22:03:06] [Worker-Main-13/INFO]: Preparing spawn area: 92%
+[22:03:06] [Worker-Main-13/INFO]: Preparing spawn area: 92%
+[22:03:07] [Worker-Main-10/INFO]: Preparing spawn area: 92%
+[22:03:07] [Worker-Main-15/INFO]: Preparing spawn area: 92%
+[22:03:08] [Worker-Main-10/INFO]: Preparing spawn area: 92%
+[22:03:08] [Worker-Main-11/INFO]: Preparing spawn area: 94%
+[22:03:09] [Server thread/INFO]: Preparing spawn area: 98%
+[22:03:09] [Server thread/INFO]: Time elapsed: 13276 ms
+[22:03:09] [Server thread/INFO]: Done (13.425s)! For help, type "help"
+[22:03:34] [User Authenticator #1/INFO]: UUID of player BusStopLegacy is 4d4bc252-13b0-4aca-8b82-c4b65a0ca863
+[22:03:34] [Server thread/INFO]: BusStopLegacy[/25.12.132.223:58094] logged in with entity id 168 at (13.799512779940653, 70.0, 67.82643548438108)
+[22:03:34] [Server thread/INFO]: BusStopLegacy joined the game
+[22:06:36] [Server thread/INFO]: BusStopLegacy lost connection: Disconnected
+[22:06:36] [Server thread/INFO]: BusStopLegacy left the game
+[22:09:04] [Server thread/INFO]: Stopping server
+[22:09:04] [Server thread/INFO]: Saving players
+[22:09:04] [Server thread/INFO]: Saving worlds
+[22:09:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:09:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:09:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:09:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:09:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:09:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:09:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:09:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:09:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
