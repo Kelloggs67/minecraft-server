@@ -1,0 +1,47 @@
+[00:01:47] [Server thread/INFO]: [BusStopLegacy: Teleported BusStopLegacy to Kelloggs67]
+[00:01:49] [Server thread/INFO]: [chickenwings817: Teleported chickenwings817 to Kelloggs67]
+[00:07:35] [Server thread/WARN]: chickenwings817 moved too quickly! 8.457233698194564,-0.16610926093821377,5.470931049535892
+[00:07:38] [Server thread/INFO]: [chickenwings817: Teleported chickenwings817 to BusStopLegacy]
+[00:18:32] [Server thread/INFO]: [chickenwings817: Teleported chickenwings817 to BusStopLegacy]
+[00:25:51] [Server thread/INFO]: [chickenwings817: Teleported chickenwings817 to Kelloggs67]
+[00:26:01] [Server thread/INFO]: [BusStopLegacy: Teleported BusStopLegacy to chickenwings817]
+[00:34:33] [Server thread/WARN]: chickenwings817 moved too quickly! 0.03943901627319235,-0.8291870918577047,-10.472678556761636
+[00:35:19] [Server thread/INFO]: [chickenwings817: Teleported chickenwings817 to BusStopLegacy]
+[00:37:41] [Server thread/WARN]: chickenwings817 moved too quickly! -9.265776180467029,4.0625,0.4793569124910704
+[00:53:11] [Server thread/WARN]: chickenwings817 moved too quickly! 10.218158604042458,0.0,0.3177529471307565
+[00:56:45] [Server thread/WARN]: chickenwings817 moved too quickly! -9.594567761666703,-1.1621414210270018,-3.122442673248628
+[00:57:58] [Server thread/WARN]: chickenwings817 moved too quickly! -10.048557173947062,0.961924088213685,-0.38615560383497183
+[00:59:47] [Server thread/INFO]: chickenwings817 burned to death
+[01:04:24] [Server thread/INFO]: [chickenwings817: Teleported chickenwings817 to BusStopLegacy]
+[01:16:31] [Server thread/WARN]: chickenwings817 moved too quickly! 9.228997558626888,-4.0625,-0.3499816149203667
+[01:19:18] [Server thread/INFO]: chickenwings817 lost connection: Disconnected
+[01:19:18] [Server thread/INFO]: chickenwings817 left the game
+[01:19:22] [User Authenticator #5/INFO]: UUID of player chickenwings817 is 5b0ceedd-6374-4026-ac02-6c030747320d
+[01:19:23] [Server thread/INFO]: chickenwings817[/25.11.197.49:50897] logged in with entity id 24443 at (9.33437083917528, 63.0, 64.95242562221885)
+[01:19:23] [Server thread/INFO]: chickenwings817 joined the game
+[01:32:00] [Server thread/INFO]: [chickenwings817: Set own game mode to Creative Mode]
+[01:32:17] [Server thread/INFO]: [BusStopLegacy: Set chickenwings817's game mode to Adventure Mode]
+[01:32:18] [Server thread/INFO]: chickenwings817 fell from a high place
+[01:32:59] [Server thread/INFO]: [chickenwings817: Set own game mode to Creative Mode]
+[01:33:14] [Server thread/WARN]: chickenwings817 moved too quickly! -8.61188414363814,-4.975027601410687,2.678995590767002
+[01:33:49] [Server thread/INFO]: [chickenwings817: Set own game mode to Survival Mode]
+[01:36:13] [Server thread/INFO]: [chickenwings817: Teleported chickenwings817 to BusStopLegacy]
+[01:39:24] [Server thread/WARN]: chickenwings817 moved too quickly! -8.837674938176107,4.0,-2.8458508725320826
+[01:41:22] [Server thread/INFO]: chickenwings817 lost connection: Disconnected
+[01:41:22] [Server thread/INFO]: chickenwings817 left the game
+[01:52:12] [Server thread/INFO]: BusStopLegacy lost connection: Disconnected
+[01:52:12] [Server thread/INFO]: BusStopLegacy left the game
+[01:58:53] [Server thread/INFO]: Kelloggs67 lost connection: Disconnected
+[01:58:53] [Server thread/INFO]: Kelloggs67 left the game
+[01:59:01] [Server thread/INFO]: Stopping server
+[01:59:01] [Server thread/INFO]: Saving players
+[01:59:01] [Server thread/INFO]: Saving worlds
+[01:59:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:59:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:59:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:59:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:59:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:59:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:59:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:59:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:59:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
