@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [23:04:46] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
 [23:04:47] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
 [23:04:47] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
@@ -12,6 +13,18 @@
 [23:04:51] [Server thread/INFO]: Default game type: SURVIVAL
 [23:04:51] [Server thread/INFO]: Generating keypair
 [23:04:51] [Server console handler/ERROR]: Exception handling console input
+=======
+[23:01:45] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[23:01:46] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:01:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:01:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:01:46] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:01:46] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:01:46] [main/INFO]: Reloading ResourceManager: Default
+[23:01:46] [Worker-Main-13/INFO]: Loaded 7 recipes
+[23:01:47] [Worker-Main-13/INFO]: Loaded 927 advancements
+[23:01:50] [Server console handler/ERROR]: Exception handling console input
+>>>>>>> e25b8d895529f3ae8c4a1ca24295fa68da614ecf
 java.io.IOException: The handle is invalid
 	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_261]
 	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_261]
@@ -25,6 +38,7 @@ java.io.IOException: The handle is invalid
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_261]
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_261]
 	at zg$1.run(SourceFile:89) [server%20(2).jar:?]
+<<<<<<< HEAD
 [23:04:51] [Server thread/INFO]: Starting Minecraft server on *:25565
 [23:04:51] [Server thread/INFO]: Using default channel type
 [23:04:55] [Server thread/INFO]: Preparing level "world"
@@ -75,3 +89,59 @@ java.io.IOException: The handle is invalid
 [23:07:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
 [23:07:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
 [23:07:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+=======
+[23:01:50] [Server thread/INFO]: Starting minecraft server version 1.16.3
+[23:01:50] [Server thread/INFO]: Loading properties
+[23:01:50] [Server thread/INFO]: Default game type: SURVIVAL
+[23:01:50] [Server thread/INFO]: Generating keypair
+[23:01:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:01:50] [Server thread/INFO]: Using default channel type
+[23:01:54] [Server thread/INFO]: Preparing level "world"
+[23:01:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:01:56] [Server thread/INFO]: Preparing spawn area: 0%
+[23:01:56] [Server thread/INFO]: Preparing spawn area: 0%
+[23:01:56] [Server thread/INFO]: Preparing spawn area: 0%
+[23:01:56] [Server thread/INFO]: Preparing spawn area: 0%
+[23:01:57] [Server thread/INFO]: Preparing spawn area: 0%
+[23:02:02] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[23:02:02] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[23:02:02] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[23:02:02] [Server thread/INFO]: Preparing spawn area: 83%
+[23:02:02] [Server thread/INFO]: Preparing spawn area: 83%
+[23:02:02] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[23:02:02] [Server thread/INFO]: Preparing spawn area: 83%
+[23:02:02] [Server thread/INFO]: Preparing spawn area: 83%
+[23:02:02] [Server thread/INFO]: Preparing spawn area: 83%
+[23:02:02] [Server thread/INFO]: Preparing spawn area: 83%
+[23:02:02] [Worker-Main-12/INFO]: Preparing spawn area: 83%
+[23:02:02] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[23:02:03] [Server thread/INFO]: Preparing spawn area: 83%
+[23:02:03] [Worker-Main-15/INFO]: Preparing spawn area: 92%
+[23:02:04] [Worker-Main-16/INFO]: Preparing spawn area: 92%
+[23:02:04] [Worker-Main-15/INFO]: Preparing spawn area: 92%
+[23:02:05] [Worker-Main-15/INFO]: Preparing spawn area: 92%
+[23:02:05] [Worker-Main-8/INFO]: Preparing spawn area: 92%
+[23:02:06] [Worker-Main-16/INFO]: Preparing spawn area: 92%
+[23:02:06] [Worker-Main-10/INFO]: Preparing spawn area: 93%
+[23:02:07] [Server thread/INFO]: Preparing spawn area: 96%
+[23:02:07] [Server thread/INFO]: Time elapsed: 12811 ms
+[23:02:07] [Server thread/INFO]: Done (12.965s)! For help, type "help"
+[23:03:38] [User Authenticator #1/INFO]: UUID of player Kelloggs67 is 745ed10c-cc1d-4680-b18c-87f84df8cb6b
+[23:03:39] [Server thread/INFO]: Kelloggs67[/25.12.128.50:62375] logged in with entity id 174 at (-6.635003811895501, 62.9375, 65.22355476609499)
+[23:03:39] [Server thread/INFO]: Kelloggs67 joined the game
+[23:03:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
+[23:04:29] [Server thread/INFO]: Kelloggs67 lost connection: Disconnected
+[23:04:29] [Server thread/INFO]: Kelloggs67 left the game
+[23:04:49] [Server thread/INFO]: Stopping server
+[23:04:49] [Server thread/INFO]: Saving players
+[23:04:49] [Server thread/INFO]: Saving worlds
+[23:04:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:04:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:04:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:04:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:04:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:04:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:04:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:04:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:04:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+>>>>>>> e25b8d895529f3ae8c4a1ca24295fa68da614ecf
