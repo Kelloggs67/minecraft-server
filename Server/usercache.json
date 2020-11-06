@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-[{"name":"chickenwings817","uuid":"5b0ceedd-6374-4026-ac02-6c030747320d","expiresOn":"2020-12-04 23:06:18 -0500"},{"name":"BusStopLegacy","uuid":"4d4bc252-13b0-4aca-8b82-c4b65a0ca863","expiresOn":"2020-12-04 22:03:34 -0500"},{"name":"Kelloggs67","uuid":"745ed10c-cc1d-4680-b18c-87f84df8cb6b","expiresOn":"2020-12-03 23:15:30 -0500"}]
-=======
-[{"name":"Kelloggs67","uuid":"745ed10c-cc1d-4680-b18c-87f84df8cb6b","expiresOn":"2020-12-04 23:03:39 -0500"},{"name":"BusStopLegacy","uuid":"4d4bc252-13b0-4aca-8b82-c4b65a0ca863","expiresOn":"2020-12-04 22:03:34 -0500"},{"name":"chickenwings817","uuid":"5b0ceedd-6374-4026-ac02-6c030747320d","expiresOn":"2020-12-04 01:19:23 -0500"}]
->>>>>>> e25b8d895529f3ae8c4a1ca24295fa68da614ecf
+[{"name":"BusStopLegacy","uuid":"4d4bc252-13b0-4aca-8b82-c4b65a0ca863","expiresOn":"2020-12-05 00:32:08 -0500"},{"name":"chickenwings817","uuid":"5b0ceedd-6374-4026-ac02-6c030747320d","expiresOn":"2020-12-05 00:18:03 -0500"},{"name":"Kelloggs67","uuid":"745ed10c-cc1d-4680-b18c-87f84df8cb6b","expiresOn":"2020-12-04 23:47:47 -0500"}]
