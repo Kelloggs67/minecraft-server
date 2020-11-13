@@ -1,202 +1,66 @@
-[00:00:51] [Server thread/WARN]: chickenwings817 moved too quickly! 3.333592687335752,-1.252203340253729,9.521200045930584
-[00:01:06] [Server thread/WARN]: chickenwings817 moved too quickly! -5.450477044730064,1.252203340253729,8.586458095538092
-[00:01:39] [Server thread/INFO]: [chickenwings817: Teleported chickenwings817 to BusStopLegacy]
-[00:06:27] [Server thread/WARN]: chickenwings817 moved too quickly! 9.809437419721917,0.5040129017765196,3.3036235563535
-[00:07:07] [Server thread/INFO]: [chickenwings817: Teleported chickenwings817 to BusStopLegacy]
-[00:09:00] [Server thread/INFO]: chickenwings817 lost connection: Timed out
-[00:09:00] [Server thread/INFO]: chickenwings817 left the game
-[00:09:12] [User Authenticator #4/INFO]: UUID of player chickenwings817 is 5b0ceedd-6374-4026-ac02-6c030747320d
-[00:09:12] [Server thread/INFO]: chickenwings817[/25.11.197.49:53201] logged in with entity id 5174 at (-313.79103470723635, 65.17675927506424, 334.11166151705277)
-[00:09:12] [Server thread/INFO]: chickenwings817 joined the game
-[00:10:08] [Server thread/WARN]: chickenwings817 moved too quickly! 3.776601766432435,-2.766367993957516,-9.143126219953189
-[00:12:58] [Server thread/INFO]: chickenwings817 lost connection: Timed out
-[00:12:58] [Server thread/INFO]: chickenwings817 left the game
-[00:13:07] [User Authenticator #5/INFO]: UUID of player chickenwings817 is 5b0ceedd-6374-4026-ac02-6c030747320d
-[00:13:07] [Server thread/INFO]: chickenwings817[/25.11.197.49:53211] logged in with entity id 6646 at (144.32267659302556, 79.02442408821369, -359.6439108977262)
-[00:13:07] [Server thread/INFO]: chickenwings817 joined the game
-[00:17:53] [Server thread/INFO]: chickenwings817 lost connection: Timed out
-[00:17:53] [Server thread/INFO]: chickenwings817 left the game
-[00:18:03] [User Authenticator #6/INFO]: UUID of player chickenwings817 is 5b0ceedd-6374-4026-ac02-6c030747320d
-[00:18:03] [Server thread/INFO]: chickenwings817[/25.11.197.49:53217] logged in with entity id 8111 at (367.2151835633485, 66.0, -478.839468920989)
-[00:18:03] [Server thread/INFO]: chickenwings817 joined the game
-[00:21:34] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -3.82376917245017,-2.738492209317357,8.827359659378146
-[00:22:07] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -3.677657565777679,1.0,9.322257934411653
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! 0.7870031890657287,1.0,10.036874010293502
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! 0.6889575571372006,1.0,10.594485859396855
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! 0.5726756357830709,2.0,11.150145543406381
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! 0.4466358395496286,2.0,11.704760662796161
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! 0.2967167081048956,2.0,12.253456497403079
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! 0.1215916977496363,2.0,12.794570946179192
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -0.0709003926598939,3.0,13.330105966646101
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -0.30876274960871797,3.0,13.844879857919466
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -0.616421139910301,4.0,14.314578698357423
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved wrongly! 1.2707864785226093
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved wrongly! 1.6566788192118778
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved wrongly! 2.1521806974110955
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved wrongly! 2.69144044595439
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved wrongly! 3.243066702128807
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -6.944094813084348,4.0,6.4803945167577695
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -7.47820873524762,4.0,6.3871066802648215
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -7.47820873524762,4.0,6.415538852046893
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -7.47820873524762,4.0,6.495421769759901
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -7.47820873524762,5.0,6.600086657596762
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -7.736154300123417,6.0,6.594963301481641
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -8.132121393884574,6.0,6.533835850677747
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -8.60731237964984,6.0,6.56304890176466
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved wrongly! 5.8746931102476765
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved wrongly! 5.8746931102476765
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved wrongly! 5.357110999425004
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved wrongly! 5.8746931102476765
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved wrongly! 5.8746931102476765
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved wrongly! 5.8746931102476765
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved wrongly! 5.8746931102476765
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved wrongly! 5.8746931102476765
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved wrongly! 5.8746931102476765
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved wrongly! 5.8746931102476765
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved wrongly! 5.5671815168184935
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved wrongly! 5.8746931102476765
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved wrongly! 5.679586062321505
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved wrongly! 5.8746931102476765
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved wrongly! 5.8746931102476765
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved wrongly! 5.8746931102476765
-[00:22:28] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved wrongly! 5.8746931102476765
-[00:22:36] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved wrongly! 0.5061918215940864
-[00:22:36] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved wrongly! 0.9633163700070213
-[00:22:36] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved wrongly! 1.3769181682056626
-[00:22:36] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved wrongly! 1.7779686598358262
-[00:23:16] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -6.520581251599019,-2.2687128023246856,7.7401171852104085
-[00:23:16] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -6.875241354459604,-2.2687128023246856,8.186487596951793
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -4.7047984872509225,0.0,9.12141281386586
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -4.966176112961751,0.0,9.628158006365455
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -5.227553738669158,0.0,10.13490319886687
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -5.488931364374732,0.0,10.641648391369259
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -5.750308990079329,0.0,11.148393583872167
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -6.0116866157834,0.0,11.655138776375356
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -6.273064241487191,0.0,12.161883968878694
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -6.534441867190832,0.0,12.66862916138211
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -6.795819492894392,0.0,13.17537435388557
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -7.057197118597909,0.0,13.682119546389053
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -7.3191842038770005,0.0,14.188549391121892
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -7.588213122875985,0.0,14.691200969999352
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -7.883389668755164,0.0,15.177883537441804
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -8.193682462821489,0.0,15.65523556391764
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -8.51206365990728,0.0,16.127595003953154
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -8.841518300409398,0.0,16.592385671340015
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -9.184555439206857,0.0,17.047158880212272
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -9.542313114766248,0.0,17.49031131861726
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -9.907947456051112,0.0,17.927245714438378
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -10.277796444121904,0.0,18.360852959647257
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -10.649900605656853,0.0,18.79267991289976
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -11.025801905754001,0.0,19.221265902508843
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -11.420603762035388,0.0,19.631608950025083
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -11.83560563359601,0.0,20.02075689148269
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -12.262743015031852,0.0,20.396956694126562
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -12.69637386584596,0.0,20.766228205849234
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -13.13865920663519,0.0,21.12526153554387
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -13.587250995476271,0.0,21.476610590018744
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -14.039217238932892,0.0,21.823847942031435
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -14.50257841994247,0.0,22.155249975982695
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -14.990638641782088,0.0,22.444882069362436
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -15.49848936598561,0.0,22.69687323870188
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -16.01717989024909,0.0,22.928084572428283
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -16.541670575402357,0.0,23.14817703042337
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -17.069264811005016,0.0,23.362319999701096
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -17.598519694575025,0.0,23.573279516186172
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -18.128663157762613,0.0,23.7825356305531
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -18.659282082187204,0.0,23.990880288408782
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -19.19015541644004,0.0,24.19873724405778
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -19.72116488031958,0.0,24.406333239979716
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -20.252247184448244,0.0,24.61378960155467
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -20.783368463941933,0.0,24.82117124757457
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -21.314510598376366,0.0,25.028512914790625
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -21.845663891873784,0.0,25.235833190145833
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -22.37682315636332,0.0,25.44314201914281
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -22.907985615811686,0.0,25.650444723421714
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -23.439149784818824,0.0,25.85774415048609
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -23.97031486857678,0.0,26.065041823978312
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -24.50097818908967,0.0,26.27361575872168
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -25.02474810001584,0.0,26.498169182271525
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -25.543336410075355,0.0,26.73439022978782
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -26.05915214882109,0.0,26.976854390261245
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -26.573484339935938,0.0,27.222659116003776
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -27.087022714292242,0.0,27.470251311618128
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -27.60013633312805,0.0,27.718799946722584
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -28.11302267375355,0.0,27.967860353528845
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -24.18236654080646,0.0,19.602526977799453
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -24.695066197215734,0.0,19.85200774914005
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -25.207731034800318,0.0,20.10156692346148
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -25.720377241526023,0.0,20.351168049654767
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -26.22626854784514,0.0,20.613724934901317
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -26.725438860019267,0.0,20.888639717038366
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -27.219595670126715,0.0,21.172547240238508
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -27.711069855236723,0.0,21.461266599885594
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -28.200397311148308,0.0,21.753734375198402
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -28.684500575113855,0.0,22.054681488621796
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -29.16466598633282,0.0,22.36190867185467
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -29.642724331059398,0.0,22.672496195231517
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -30.119655226516276,0.0,22.984881769621442
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -30.595982846347848,0.0,23.2982294452592
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -31.07198766542034,0.0,23.61209192209244
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -31.5478197602426,0.0,23.926229858781358
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -32.02355943376231,0.0,24.24051518854697
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -32.49924965448571,0.0,24.55487938540922
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -32.97491341400379,0.0,24.86928578248244
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -33.45056301465847,0.0,25.18371476004717
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -33.92620503918765,0.0,25.498155819982703
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -34.41718673773981,0.0,25.7862067788594
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -34.922597611543345,0.0,26.046971799219808
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -35.43601463922762,0.0,26.29248476589747
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -35.953715600227994,0.0,26.52983666274264
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -36.473708808533395,0.0,26.762821733834617
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -36.994928552669236,0.0,26.993470203531178
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -37.52077257294899,0.0,27.213261484206196
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -38.04934878489209,0.0,27.426580023188688
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -38.579386938120216,0.0,27.636435127144054
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -39.110207346981994,0.0,27.84443701606985
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -39.64144632523684,0.0,28.051447286582444
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -40.173156202932276,0.0,28.257286722767443
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -40.70511804952965,0.0,28.462499668847666
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -41.23721471966273,0.0,28.667377392563687
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -41.76938353118169,0.0,28.872075745476234
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -42.30159094411786,0.0,29.076678120648115
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -42.83381901190278,0.0,29.28122914004455
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -43.366058131685435,0.0,29.485752679989474
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -43.89830316517174,0.0,29.69026151622777
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -44.430551362962944,0.0,29.894762484805813
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -44.96280125391063,0.0,30.099259243555718
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -45.49505205083257,0.0,30.30375374971052
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -46.027303332523275,0.0,30.508247050546593
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -46.55955487360409,0.0,30.712739706440647
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -47.09180655347938,0.0,30.917232017239087
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -47.62405830762082,0.0,31.121724143383744
-[00:23:51] [Server thread/WARN]: Horse (vehicle of chickenwings817) moved too quickly! -48.1563101015006,0.0,31.326216170723843
-[00:27:12] [Server thread/INFO]: BusStopLegacy lost connection: Disconnected
-[00:27:12] [Server thread/INFO]: BusStopLegacy left the game
-[00:28:02] [User Authenticator #7/INFO]: UUID of player BusStopLegacy is 4d4bc252-13b0-4aca-8b82-c4b65a0ca863
-[00:28:02] [Server thread/INFO]: BusStopLegacy[/25.12.132.223:60970] logged in with entity id 10193 at (-19.735694527029782, 67.0, 62.66890026179307)
-[00:28:02] [Server thread/INFO]: BusStopLegacy joined the game
-[00:29:05] [Server thread/INFO]: BusStopLegacy lost connection: Disconnected
-[00:29:05] [Server thread/INFO]: BusStopLegacy left the game
-[00:29:51] [User Authenticator #8/INFO]: UUID of player BusStopLegacy is 4d4bc252-13b0-4aca-8b82-c4b65a0ca863
-[00:29:51] [Server thread/INFO]: BusStopLegacy[/25.12.132.223:61051] logged in with entity id 10389 at (-28.52570643222058, 67.5625, 65.22276622115274)
-[00:29:51] [Server thread/INFO]: BusStopLegacy joined the game
-[00:30:01] [Server thread/WARN]: chickenwings817 moved too quickly! 9.341113739980937,-4.0,1.1014050713671537
-[00:31:25] [Server thread/INFO]: BusStopLegacy lost connection: Disconnected
-[00:31:25] [Server thread/INFO]: BusStopLegacy left the game
-[00:32:08] [User Authenticator #9/INFO]: UUID of player BusStopLegacy is 4d4bc252-13b0-4aca-8b82-c4b65a0ca863
-[00:32:08] [Server thread/INFO]: BusStopLegacy[/25.12.132.223:61114] logged in with entity id 10634 at (-25.30000001192093, 76.0, 62.59258599543881)
-[00:32:08] [Server thread/INFO]: BusStopLegacy joined the game
-[00:36:00] [Server thread/INFO]: Kelloggs67 lost connection: Disconnected
-[00:36:00] [Server thread/INFO]: Kelloggs67 left the game
-[00:36:25] [Server thread/INFO]: Stopping server
-[00:36:25] [Server thread/INFO]: Saving players
-[00:36:25] [Server thread/INFO]: Saving worlds
-[00:36:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:36:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:36:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:36:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:36:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:36:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:36:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:36:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:36:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:20:23] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[23:20:24] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:20:24] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:20:24] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:20:24] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:20:24] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:20:24] [main/INFO]: Reloading ResourceManager: Default
+[23:20:24] [Worker-Main-12/INFO]: Loaded 7 recipes
+[23:20:25] [Worker-Main-12/INFO]: Loaded 927 advancements
+[23:20:26] [Server thread/INFO]: Starting minecraft server version 1.16.3
+[23:20:26] [Server thread/INFO]: Loading properties
+[23:20:26] [Server thread/INFO]: Default game type: SURVIVAL
+[23:20:26] [Server thread/INFO]: Generating keypair
+[23:20:26] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_271]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_271]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_271]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_271]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_271]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_271]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_271]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_271]
+	at zg$1.run(SourceFile:89) [server.jar:?]
+[23:20:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:20:27] [Server thread/INFO]: Using default channel type
+[23:20:28] [Server thread/INFO]: Preparing level "world"
+[23:20:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:20:30] [Server thread/INFO]: Preparing spawn area: 0%
+[23:20:30] [Server thread/INFO]: Preparing spawn area: 0%
+[23:20:30] [Server thread/INFO]: Preparing spawn area: 0%
+[23:20:30] [Server thread/INFO]: Preparing spawn area: 0%
+[23:20:34] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[23:20:34] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[23:20:34] [Worker-Main-15/INFO]: Preparing spawn area: 83%
+[23:20:34] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[23:20:34] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[23:20:34] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[23:20:34] [Worker-Main-15/INFO]: Preparing spawn area: 83%
+[23:20:34] [Worker-Main-15/INFO]: Preparing spawn area: 83%
+[23:20:34] [Worker-Main-10/INFO]: Preparing spawn area: 98%
+[23:20:35] [Worker-Main-9/INFO]: Preparing spawn area: 98%
+[23:20:35] [Worker-Main-10/INFO]: Preparing spawn area: 98%
+[23:20:36] [Server thread/INFO]: Preparing spawn area: 98%
+[23:20:36] [Server thread/INFO]: Time elapsed: 7557 ms
+[23:20:36] [Server thread/INFO]: Done (7.686s)! For help, type "help"
+[23:20:59] [User Authenticator #1/INFO]: UUID of player BusStopLegacy is 4d4bc252-13b0-4aca-8b82-c4b65a0ca863
+[23:21:00] [Server thread/INFO]: BusStopLegacy[/25.12.132.223:53368] logged in with entity id 161 at (-11.764960956178385, 62.9375, 64.3920162771112)
+[23:21:00] [Server thread/INFO]: BusStopLegacy joined the game
+[23:21:04] [Server thread/INFO]: Stopping server
+[23:21:04] [Server thread/INFO]: Saving players
+[23:21:05] [Server thread/INFO]: BusStopLegacy lost connection: Internal Exception: java.lang.StackOverflowError
+[23:21:05] [Server thread/INFO]: BusStopLegacy left the game
+[23:21:05] [Server thread/INFO]: Saving worlds
+[23:21:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:21:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:21:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:21:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:21:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:21:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:21:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:21:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:21:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
