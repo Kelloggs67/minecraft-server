@@ -1784,6 +1784,14 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2020-11-27 13:50:38 -0500",
+      "minecraft:cow": "2020-11-27 13:49:56 -0500",
+      "minecraft:chicken": "2020-11-27 13:51:18 -0500"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2020-10-08 22:08:31 -0400"
@@ -2633,6 +2641,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2020-10-08 22:14:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2020-11-27 13:49:56 -0500"
     },
     "done": true
   },
